@@ -1,0 +1,31 @@
+{
+  "name": "get-coins-service",
+  "version": "0.0.1",
+  "description": "Service for get coins and histories from Benance, with benance api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fedorrychkov/getCoinsFromBenance.git"
+  },
+  "keywords": [
+    "benance",
+    "crypto",
+    "api",
+    "rest",
+    "service",
+    "nodejs",
+    "pm2"
+  ],
+  "author": "Fyodor Rychkov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fedorrychkov/getCoinsFromBenance/issues"
+  },
+  "homepage": "https://github.com/Fedorrychkov/getCoinsFromBenance#readme",
+  "devDependencies": {
+    "pm2": "^2.10.1"
+  }
+}
